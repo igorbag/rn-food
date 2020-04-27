@@ -1,0 +1,10 @@
+Client ID
+UrAv0l6hqZpXSj83fcW-NQ
+
+API Key
+4c5-9nvQjWGY3FjcEm9IxG2BGnA0u9aCbH6E71pbRU5ZBJ8yucD4pTXIu6SmhzODivuc2OaSIPPmRI3d07khx4DQx_nqSWdR4-5n3KOv5i9NbH2CcFqix5axRSqPXnYx
+
+
+https://www.yelp.com/developers/documentation/v3/business_search
+
+https://www.yelp.com/developers/documentation/v3/business_search
